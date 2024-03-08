@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tonykibe
 - 👀 I’m interested in coding moreso frontend web development
 - 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on frontend development
+- 💞️ I’m looking to collaborate oncode spaces and repositories
 - 📫 How to reach me ...
 - 😄 Pronouns: straight
 - ⚡ Fun fact: ...
